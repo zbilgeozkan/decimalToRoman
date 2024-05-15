@@ -41,12 +41,6 @@
     outline: none;
     border-radius: 0.5em;
   }
-  #error {
-    background-color: #fc4747;
-    text-align: center;
-    color: #ffffff;
-    margin-top: 0.5em;
-  }
   #output {
     font-size: 1.2em;
     text-align: center;
